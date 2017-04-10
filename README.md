@@ -5,16 +5,6 @@ This is an app that heavily focus on the current political scene in DC so that t
 
 <a href="https://play.google.com/apps/testing/com.joelimyx.politicallocal"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height=100></a>
 
-## Prototype
-<p align="center">
-  <img src="prototype/pro1.jpg" width=200>
-  <img src="prototype/pro2.jpg" width=200>
-  <img src="prototype/pro3.jpg" width=200>
-  <img src="prototype/pro4.jpg" width=200>
-  <img src="prototype/pro5.jpg" width=200>
-</p>
-
-
 ## Features
 - Use location to find your representatives and Senators
   - The ability to also view their contributors
